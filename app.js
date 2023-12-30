@@ -146,6 +146,9 @@ const bgImages = [
     {
         one: "background: url(./bg12.jpg) no-repeat center center/ cover;",
     },
+    {
+        one: "background: url(./bg13.jpg) no-repeat center center/ cover;",
+    },
 ]
 
 btn.addEventListener("click", () => {
