@@ -127,7 +127,25 @@ const bgImages = [
     },
     {
         one: "background: url(./bg6.jpg) no-repeat center center/ cover;",
-    }
+    },
+    {
+        one: "background: url(./bg7.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg8.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg9.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg10.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg11.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg12.jpg) no-repeat center center/ cover;",
+    },
 ]
 
 btn.addEventListener("click", () => {
