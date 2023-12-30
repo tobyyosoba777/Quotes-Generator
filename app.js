@@ -149,6 +149,24 @@ const bgImages = [
     {
         one: "background: url(./bg13.jpg) no-repeat center center/ cover;",
     },
+    {
+        one: "background: url(./bg14.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg15.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg16.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg17.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg18.jpg) no-repeat center center/ cover;",
+    },
+    {
+        one: "background: url(./bg19.jpg) no-repeat center center/ cover;",
+    },
 ]
 
 btn.addEventListener("click", () => {
