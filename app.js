@@ -109,14 +109,28 @@ const quotes = [
     {
         quote: `"When you base your expectations only on what you see, you blind
         yourself to the possibilities of a new reality"`,
-        author: `Zaheer X Guru Laghima`
+        author: `Zaheer`
     },
     {
         quote: `"To be free is to free your mind from the illusion of control"`,
         author: `Guru Laghima`
+    },
+    {
+        quote: `"To achieve true freedom, one must sever the chains of attachment"`,
+        author: `Guru Laghima`
+    },
+    {
+        quote: `"Fear is the enemy of enlightenment. To fear is to live in the 
+        shadow of ignorance"`,
+        author: `Guru Laghima`
+    },
+    {
+        quote: `"The secret to happiness is to accept things as they are, 
+        without judgement."`,
+        author: "Guru Laghima"
     }
 
-    ]
+]
 
     
 
