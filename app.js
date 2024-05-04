@@ -100,7 +100,18 @@ const quotes = [
     {
         quote: `"The journey of a thousand miles begin with one step. "`,
         author: `Lao Tzu`
+    },
+
+    {
+        quote: `"Instinct is a lie told by a fearful body hoping to be wrong "`,
+        author: `Zaheer X Guru Laghima`
+    },
+    {
+        quote: `"When you base your expectations only on what you see, you blind
+        yourself to the possibilities of a new reality "`,
+        author: `"Zaheer X Guru Laghima"`
     }
+    
     ]
 
     
