@@ -103,7 +103,7 @@ const quotes = [
     },
 
     {
-        quote: `"Instinct is a lie told by a fearful body hoping to be wrong "`,
+        quote: `"Instinct is a lie told by a fearful body hoping to be wrong"`,
         author: `Zaheer X Guru Laghima`
     },
     {
