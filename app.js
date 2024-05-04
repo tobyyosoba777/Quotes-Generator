@@ -108,10 +108,14 @@ const quotes = [
     },
     {
         quote: `"When you base your expectations only on what you see, you blind
-        yourself to the possibilities of a new reality "`,
-        author: `"Zaheer X Guru Laghima"`
+        yourself to the possibilities of a new reality"`,
+        author: `Zaheer X Guru Laghima`
+    },
+    {
+        quote: `"To be free is to free your mind from the illusion of control"`,
+        author: `Guru Laghima`
     }
-    
+
     ]
 
     
