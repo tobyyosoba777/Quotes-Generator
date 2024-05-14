@@ -128,6 +128,10 @@ const quotes = [
         quote: `"The secret to happiness is to accept things as they are, 
         without judgement."`,
         author: "Guru Laghima"
+    },
+    {
+        quote: `"New growth cannot exist without first the destruction of the old"`,
+        author: "Guru Laghima"
     }
 
 ]
