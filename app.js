@@ -132,6 +132,14 @@ const quotes = [
     {
         quote: `"New growth cannot exist without first the destruction of the old"`,
         author: "Guru Laghima"
+    },
+    {
+        quote: `"Might makes right"`,
+        author: "Jiren"
+    },
+    {
+        quote: "`You will laugh at your fears when you find out who you are`",
+        author: "Piccolo"
     }
 
 ]
