@@ -140,6 +140,10 @@ const quotes = [
     {
         quote: "`You will laugh at your fears when you find out who you are`",
         author: "Piccolo"
+    },
+    {
+        quote: "`I know what it's like to lose, to feel so desperately that you're right, yet to fail nonetheless, it's frightening `",
+        author: "Thanos: Avengers-Endgame"
     }
 
 ]
