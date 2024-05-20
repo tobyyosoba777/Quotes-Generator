@@ -144,6 +144,10 @@ const quotes = [
     {
         quote: "`I know what it's like to lose, to feel so desperately that you're right, yet to fail nonetheless, it's frightening `",
         author: "Thanos: Avengers-Endgame"
+    },
+    {
+        quote: "`If you want the rainbow, you gotta put up with the rain `",
+        author: "Dolly Parton"
     }
 
 ]
