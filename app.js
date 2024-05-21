@@ -146,8 +146,15 @@ const quotes = [
         author: "Thanos: Avengers-Endgame"
     },
     {
-        quote: "`If you want the rainbow, you gotta put up with the rain `",
+        quote: `"If you want the rainbow, you gotta put up with the rain"`,
         author: "Dolly Parton"
+    },
+    {
+        quote: `"Freedom is the oxygen of the soul"`,
+        author: "Moshe Dayan"
+    },
+    {
+        
     }
 
 ]
