@@ -176,6 +176,14 @@ const quotes = [
     {
         quote: `"You could not live with your own failure, where did that bring you? Back to me"`,
         author: "Thanos"
+    },
+    {
+        quote: `"Challenges are what make life interesting, Overcoming them is what makes life meaningful"`,
+        author: "Unknown"
+    },
+    {
+        quote: `"Life is difficult because we don't appreciate the things that come easily"`,
+        author: "Invajy"
     }
 
 ]
