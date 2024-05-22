@@ -154,7 +154,28 @@ const quotes = [
         author: "Moshe Dayan"
     },
     {
-        
+        quote: `"Nature is constantly changing, like the wind"`,
+        author: "Zaheer"
+    },
+    {
+        quote: `"We can't concern ourselves with what was, we must act on what is"`,
+        author: "Monk Gyatso"
+    },
+    {
+        quote: `"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."`,
+        author: "Albert Camus"
+    },
+    {
+        quote: `"Freedom is the moment when you realize that nothing can bind you, nothing can hold you back, and nothing can limit your potential."`,
+        author: "Anonymous"
+    },
+    {
+        quote: `"If you want sucess, don't do the right things for the wrong reasons"`,
+        author: "~Toby"
+    },
+    {
+        quote: `"You could not live with your own failure, where did that bring you? Back to me"`,
+        author: "Thanos"
     }
 
 ]
