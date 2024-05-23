@@ -184,7 +184,15 @@ const quotes = [
     {
         quote: `"Life is difficult because we don't appreciate the things that come easily"`,
         author: "Invajy"
-    }
+    },
+    {
+        quote: `"When you stop chasing the wrong things, you give the right things a chance to catch you"`,
+        author: "Unknown"
+    },
+    {
+        quote: `"When you do not seek or need external approval, you are at your most powerful"`,
+        author: "Greg Behrendt"
+    },
 
 ]
 
