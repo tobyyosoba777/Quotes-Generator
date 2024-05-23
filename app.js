@@ -192,7 +192,7 @@ const quotes = [
     {
         quote: `"When you do not seek or need external approval, you are at your most powerful"`,
         author: "Greg Behrendt"
-    },
+    }
 
 ]
 
