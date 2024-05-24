@@ -200,6 +200,10 @@ const quotes = [
     {
         quote: `"When we hit our lowest point, we are open to the greatest change"`,
         author: "Avatar Aang"
+    },
+    {
+        quote: `"A thousand words will not leave so deep an impression as one deed"`,
+        author: "Henrik Ibsen"
     }
     
 ]
