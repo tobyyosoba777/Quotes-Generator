@@ -192,8 +192,16 @@ const quotes = [
     {
         quote: `"When you do not seek or need external approval, you are at your most powerful"`,
         author: "Greg Behrendt"
+    },
+    {
+        quote: `"What is meant to be, will be, Inevitably"`,
+        author: "~Toby"
+    },
+    {
+        quote: `"When we hit our lowest point, we are open to the greatest change"`,
+        author: "Avatar Aang"
     }
-
+    
 ]
 
     
