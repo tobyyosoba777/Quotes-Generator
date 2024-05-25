@@ -204,6 +204,14 @@ const quotes = [
     {
         quote: `"A thousand words will not leave so deep an impression as one deed"`,
         author: "Henrik Ibsen"
+    },
+    {
+        quote: `"And now that you do not have to be perfect you can be good, at peace"`,
+        author: "John Steinbeck"
+    },
+    {
+        quote: `"It's easier to hold on, true strength lies in letting go"`,
+        author: "~Unknown"
     }
     
 ]
