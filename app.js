@@ -212,6 +212,14 @@ const quotes = [
     {
         quote: `"It's easier to hold on, true strength lies in letting go"`,
         author: "~Unknown"
+    },
+    {
+        quote: `"Happiness is not about getting all you want, it's about enjoying all you have"`,
+        author: "~Unknown"
+    },
+    {
+        quote: `"If it drains you, it's not for you"`,
+        author: "~Unknown"
     }
     
 ]
