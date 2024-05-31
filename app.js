@@ -220,6 +220,10 @@ const quotes = [
     {
         quote: `"If it drains you, it's not for you"`,
         author: "~Unknown"
+    },
+    {
+        quote: `"Do something today that your future self will thank you for"`,
+        author: "~Unknown"
     }
     
 ]
