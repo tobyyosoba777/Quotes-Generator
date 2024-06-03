@@ -224,6 +224,10 @@ const quotes = [
     {
         quote: `"Do something today that your future self will thank you for"`,
         author: "~Unknown"
+    },
+    {
+        quote: `"Freedom is a state of mind"`,
+        author: "~Unknown"
     }
     
 ]
