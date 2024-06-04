@@ -228,7 +228,19 @@ const quotes = [
     {
         quote: `"Freedom is a state of mind"`,
         author: "~Unknown"
-    }
+    },
+    {
+        quote: `"The secret of happiness is freedom, the secret of freedom is courage"`,
+        author: "Carrie Jones"
+    },
+    {
+        quote: `"Freedom is what we do with what is done to us."`,
+        author: "Jean-Paul Sartre"
+    },
+    {
+        quote: `"He who is brave is free."`,
+        author: "Lucius Annaeus Seneca"
+    },
     
 ]
 
