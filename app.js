@@ -241,6 +241,10 @@ const quotes = [
         quote: `"He who is brave is free."`,
         author: "Lucius Annaeus Seneca"
     },
+    {
+        quote: `"No one outside ourselves can rule us inwardly. When we know this, we become free."`,
+        author: "Buddha"
+    },
     
 ]
 
