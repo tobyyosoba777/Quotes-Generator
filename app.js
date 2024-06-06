@@ -245,6 +245,19 @@ const quotes = [
         quote: `"No one outside ourselves can rule us inwardly. When we know this, we become free."`,
         author: "Buddha"
     },
+    {
+        quote: `"Never lose hope, just when you think it's over, God sends you a miracle."`,
+        author: "~Unknown"
+    },
+    {
+        quote: `"Dead people receive more flowers than the living because regret is stronger 
+        than gratitude."`,
+        author: "Anne Frank"
+    },
+    {
+        quote: `"What you get by achieving your goals is not as important as what you become by achieving them"`,
+        author: "Zig Ziglar"
+    },
     
 ]
 
