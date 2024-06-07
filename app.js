@@ -258,6 +258,18 @@ const quotes = [
         quote: `"What you get by achieving your goals is not as important as what you become by achieving them"`,
         author: "Zig Ziglar"
     },
+    {
+        quote: `"If you can change your mind, you can change your life"`,
+        author: "William James"
+    },
+    {
+        quote: `"When things change inside you, things change around you"`,
+        author: "~Unknown"
+    },
+    {
+        quote: `"Nothing is impossible, the word itself says 'I'm possible' "`,
+        author: "~Unknown"
+    }
     
 ]
 
