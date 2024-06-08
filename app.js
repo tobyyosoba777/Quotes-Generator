@@ -269,6 +269,14 @@ const quotes = [
     {
         quote: `"Nothing is impossible, the word itself says 'I'm possible' "`,
         author: "~Unknown"
+    },
+    {
+        quote: `"The root of suffering is attachment' "`,
+        author: "~Buddha"
+    },
+    {
+        quote: `"Let go of what no longer serves you to make space for the new' "`,
+        author: "~Unknown"
     }
     
 ]
