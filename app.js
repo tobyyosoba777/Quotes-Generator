@@ -267,17 +267,22 @@ const quotes = [
         author: "~Unknown"
     },
     {
-        quote: `"Nothing is impossible, the word itself says 'I'm possible' "`,
+        quote: `"Nothing is impossible, the word itself says 'I'm possible"`,
         author: "~Unknown"
     },
     {
-        quote: `"The root of suffering is attachment' "`,
+        quote: `"The root of suffering is attachment"`,
         author: "~Buddha"
     },
     {
-        quote: `"Let go of what no longer serves you to make space for the new' "`,
+        quote: `"Let go of what no longer serves you to make space for the new"`,
         author: "~Unknown"
-    }
+    },
+    {
+        quote: `"People can be really smart or have skills that are directly applicable but
+        if they don't really believe in it then they are not going to really work hard"`,
+        author: "Mark Zuckerberg (Role Model)"
+    },
     
 ]
 
