@@ -283,6 +283,10 @@ const quotes = [
         if they don't really believe in it then they are not going to really work hard"`,
         author: "Mark Zuckerberg (Role Model)"
     },
+    {
+        quote: `"Every choice you make is a vote for the person you want to be"`,
+        author: "~  Unknown"
+    },
     
 ]
 
