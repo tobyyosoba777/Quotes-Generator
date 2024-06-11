@@ -287,6 +287,11 @@ const quotes = [
         quote: `"Every choice you make is a vote for the person you want to be"`,
         author: "~  Unknown"
     },
+    {
+        quote: `"Optimism is a happiness magnet. If you stay positive, good things and
+        good people will be drawn to you"`,
+        author: "Mary Lou Retton"
+    },
     
 ]
 
