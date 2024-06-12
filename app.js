@@ -292,6 +292,14 @@ const quotes = [
         good people will be drawn to you"`,
         author: "Mary Lou Retton"
     },
+    {
+        quote: `"You define your own life. Don’t let other people write your script"`,
+        author: "Oprah Winfrey"
+    },
+    {
+        quote: `"To bring about change, you must not be afraid to take the first step. We will fail when we fail to try"`,
+        author: "Rosa Parks"
+    },
     
 ]
 
