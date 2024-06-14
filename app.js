@@ -300,6 +300,10 @@ const quotes = [
         quote: `"To bring about change, you must not be afraid to take the first step. We will fail when we fail to try"`,
         author: "Rosa Parks"
     },
+    {
+        quote: `"You don't have to be great to start, but you have to start to be great"`,
+        author: "Zig Ziglar"
+    },
     
 ]
 
