@@ -305,6 +305,21 @@ const quotes = [
         author: "Zig Ziglar"
     },
     
+    {
+        quote: `"Change will not come if we wait for some other person or some other time. 
+        We are the ones we’ve been waiting for. We are the change that we seek."`,
+        author: "Barack Obama"
+    },
+    {
+        quote: `“In any given moment we have two options: to step forward into growth or 
+        step back into safety.”`,
+        author: "Abraham Maslow"
+    },
+    {
+        quote: `“Change  is inevitable. Growth is optional.”`,
+        author: "~Unknown"
+    },
+    
 ]
 
     
