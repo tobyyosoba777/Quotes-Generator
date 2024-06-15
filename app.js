@@ -319,6 +319,10 @@ const quotes = [
         quote: `“Change  is inevitable. Growth is optional.”`,
         author: "~Unknown"
     },
+    {
+        quote: `“When we are no longer able to change a situation, we are challenged to change ourselves.”`,
+        author: "Viktor E. Frankl"
+    },
     
 ]
 
