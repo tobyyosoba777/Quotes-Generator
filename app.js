@@ -323,6 +323,10 @@ const quotes = [
         quote: `“When we are no longer able to change a situation, we are challenged to change ourselves.”`,
         author: "Viktor E. Frankl"
     },
+    {
+        quote: `“Stay close to anything that makes you glad you are alive.”`,
+        author: "Hafez"
+    },
     
 ]
 
