@@ -327,6 +327,10 @@ const quotes = [
         quote: `“Stay close to anything that makes you glad you are alive.”`,
         author: "Hafez"
     },
+    {
+        quote: `“Everything you can imagine is real.”`,
+        author: "Pablo Picasso"
+    },
     
 ]
 
