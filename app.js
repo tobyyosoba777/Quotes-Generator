@@ -331,6 +331,10 @@ const quotes = [
         quote: `“Everything you can imagine is real.”`,
         author: "Pablo Picasso"
     },
+    {
+        quote: `“ Success is not the absence of failure, It's persistence through failure .”`,
+        author: "Aisha Tyler"
+    },
     
 ]
 
