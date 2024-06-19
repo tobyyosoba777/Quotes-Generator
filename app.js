@@ -335,6 +335,10 @@ const quotes = [
         quote: `“ Success is not the absence of failure, It's persistence through failure .”`,
         author: "Aisha Tyler"
     },
+    {
+        quote: `“Any change, even a change for the better, is always accompanied by drawbacks and discomforts.”`,
+        author: "Arnold Bennett"
+    },
     
 ]
 
