@@ -341,7 +341,7 @@ const quotes = [
     },
     
     {
-        quote: `“Don't be scared of other's Strength, Identify your own weakness Instead`,
+        quote: `“Don't be scared of other's Strength, Identify your own weakness Instead.”`,
         author: "Keemah"
     },
     
