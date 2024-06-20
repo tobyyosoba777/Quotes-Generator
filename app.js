@@ -340,6 +340,11 @@ const quotes = [
         author: "Arnold Bennett"
     },
     
+    {
+        quote: `“Don't be scared of others weakness, Identify your own weakness”`,
+        author: "Keemah"
+    },
+    
 ]
 
     
