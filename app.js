@@ -344,6 +344,10 @@ const quotes = [
         quote: `“Don't be scared of other's Strength, Identify your own weakness Instead.”`,
         author: "Keemah"
     },
+    {
+        quote: `Freedom is something that dies unless it is used.”`,
+        author: "Hunter S. Thompson"
+    },
     
 ]
 
