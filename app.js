@@ -345,8 +345,12 @@ const quotes = [
         author: "Keemah"
     },
     {
-        quote: `Freedom is something that dies unless it is used.”`,
+        quote: `“Freedom is something that dies unless it is used.”`,
         author: "Hunter S. Thompson"
+    },
+    {
+        quote: `“You must find the place inside yourself where nothing is impossible.”`,
+        author: "Deepak Chopra"
     },
     
 ]
