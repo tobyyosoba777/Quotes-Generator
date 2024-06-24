@@ -341,16 +341,16 @@ const quotes = [
     },
     
     {
-        quote: `“Don't be scared of other's Strength, Identify your own weakness Instead.”`,
-        author: "Keemah"
-    },
-    {
         quote: `“Freedom is something that dies unless it is used.”`,
         author: "Hunter S. Thompson"
     },
     {
         quote: `“You must find the place inside yourself where nothing is impossible.”`,
         author: "Deepak Chopra"
+    },
+    {
+        quote: `“Difficulties increase the nearer we come to our aim..”`,
+        author: "Johann Wolfgang von Goethe"
     },
     
 ]
