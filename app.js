@@ -324,11 +324,11 @@ const quotes = [
         author: "Viktor E. Frankl"
     },
     {
-        quote: `“Stay close to anything that makes you glad you are alive.”`,
+        quote: `“ Stay close to anything that makes you glad you are alive.”`,
         author: "Hafez"
     },
     {
-        quote: `“Everything you can imagine is real.”`,
+        quote: `“ Everything you can imagine is real.”`,
         author: "Pablo Picasso"
     },
     {
@@ -336,21 +336,25 @@ const quotes = [
         author: "Aisha Tyler"
     },
     {
-        quote: `“Any change, even a change for the better, is always accompanied by drawbacks and discomforts.”`,
+        quote: `“ Any change, even a change for the better, is always accompanied by drawbacks and discomforts.”`,
         author: "Arnold Bennett"
     },
     
     {
-        quote: `“Freedom is something that dies unless it is used.”`,
+        quote: `“ Freedom is something that dies unless it is used.”`,
         author: "Hunter S. Thompson"
     },
     {
-        quote: `“You must find the place inside yourself where nothing is impossible.”`,
+        quote: `“ You must find the place inside yourself where nothing is impossible.”`,
         author: "Deepak Chopra"
     },
     {
-        quote: `“Difficulties increase the nearer we come to our aim..”`,
+        quote: `“ Difficulties increase the nearer we come to our aim..”`,
         author: "Johann Wolfgang von Goethe"
+    },
+    {
+        quote: `“ Happiness is when what you think, what you say, and what you do are in harmony. ”`,
+        author: "—Mahatma Gandhi"
     },
     
 ]
