@@ -356,6 +356,10 @@ const quotes = [
         quote: `“ Happiness is when what you think, what you say, and what you do are in harmony. ”`,
         author: "—Mahatma Gandhi"
     },
+    {
+        quote: `“ When you choose peace, it comes with a lot of goodbyes. ”`,
+        author: "~Unknown"
+    },
     
 ]
 
