@@ -360,6 +360,10 @@ const quotes = [
         quote: `“ When you choose peace, it comes with a lot of goodbyes. ”`,
         author: "~Unknown"
     },
+    {
+        quote: `“ Nothing is impossible, the word itself says ‘I’m possible! ”`,
+        author: "Audrey Hepburn"
+    },
     
 ]
 
