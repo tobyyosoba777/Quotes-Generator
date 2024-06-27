@@ -364,10 +364,14 @@ const quotes = [
         quote: `“ Nothing is impossible, the word itself says ‘I’m possible! ”`,
         author: "Audrey Hepburn"
     },
+    {
+        quote: `“ It is better to be hated for what you are than to be loved for what you are not. ”`,
+        author: "Andre Gide, Autumn Leaves"
+    },
     
 ]
 
-    
+
 
 
 const bgImages = [
