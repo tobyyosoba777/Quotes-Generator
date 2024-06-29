@@ -368,6 +368,10 @@ const quotes = [
         quote: `“ It is better to be hated for what you are than to be loved for what you are not. ”`,
         author: "Andre Gide, Autumn Leaves"
     },
+    {
+        quote: `“ Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain ”`,
+        author: "Vivian Greene"
+    },
     
 ]
 
