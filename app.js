@@ -372,6 +372,10 @@ const quotes = [
         quote: `“ Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain ”`,
         author: "Vivian Greene"
     },
+    {
+        quote: `“ You only live once. You don’t want your tombstone to read: played it safe. ”`,
+        author: "Rosario Dawson"
+    },
     
 ]
 
