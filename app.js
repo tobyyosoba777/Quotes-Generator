@@ -490,3 +490,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }, 2000);
     });
 });
+
+let greet = document.querySelector('.greet');
+
+let date = new Date();
+let day = date.getDate();
+if(day === 1) {
+    let greetMessage = `<h2>Happy new month🎉</h2>`;
+    greet.innerHTML = greetMessage;
+}
