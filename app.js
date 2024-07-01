@@ -376,6 +376,10 @@ const quotes = [
         quote: `“ You only live once. You don’t want your tombstone to read: played it safe. ”`,
         author: "Rosario Dawson"
     },
+    {
+        quote: `“ No one can make you feel inferior without your consent. ”`,
+        author: "Eleanor Roosevelt"
+    },
     
 ]
 
