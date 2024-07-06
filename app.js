@@ -381,6 +381,16 @@ const quotes = [
         author: "Eleanor Roosevelt"
     },
     
+    {
+        quote: `“ Accept yourself, love yourself, and keep moving forward. If you want to fly, you have to give up what weighs you down. ”`,
+        author: "Roy T. Bennett"
+    },
+    
+    {
+        quote: `“ Freedom is not free ”`,
+        author: "Tobiloba"
+    },
+    
 ]
 
 
