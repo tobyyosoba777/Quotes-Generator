@@ -390,6 +390,10 @@ const quotes = [
         quote: `“ Freedom is not free ”`,
         author: "Tobiloba"
     },
+    {
+        quote: `“ You change the world by being yourself. ”`,
+        author: "Yoko Ono"
+    },
     
 ]
 
