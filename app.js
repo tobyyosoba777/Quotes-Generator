@@ -402,6 +402,10 @@ const quotes = [
         quote: `“ Life is really simple, but men insist on making it complicated. ”`,
         author: "Confucius"
     },
+    {
+        quote: `“ Failure is the condiment that gives success its flavor.. ”`,
+        author: "Truman Capote"
+    },
     
 ]
 
