@@ -398,6 +398,10 @@ const quotes = [
         quote: `“ Do not be afraid of others strength, Identify your own weakness instead. ”`,
         author: "Keemah"
     },
+    {
+        quote: `“ Life is really simple, but men insist on making it complicated. ”`,
+        author: "Confucius"
+    },
     
 ]
 
