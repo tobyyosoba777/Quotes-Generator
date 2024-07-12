@@ -395,7 +395,7 @@ const quotes = [
         author: "Yoko Ono"
     },
     {
-        quote: `“ Do not be afraid of others strength, Identify your own weakness instead. ”`,
+        quote: `“ Don't be afraid of other people's strength, Identify your weakness instead. ”`,
         author: "Keemah"
     },
     {
