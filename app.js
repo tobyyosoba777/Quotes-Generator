@@ -408,7 +408,7 @@ const quotes = [
     },
     {
         quote: `“ To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. ”`,
-        author: "Henri Bergson"
+        author: "Henri Bergsons"
     },
     
 ]
