@@ -406,6 +406,10 @@ const quotes = [
         quote: `“ Failure is the condiment that gives success its flavor.. ”`,
         author: "Truman Capote"
     },
+    {
+        quote: `“ To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. ”`,
+        author: "Henri Bergson"
+    },
     
 ]
 
