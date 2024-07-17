@@ -410,6 +410,10 @@ const quotes = [
         quote: `“ To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. ”`,
         author: "Henri Bergsons"
     },
+    {
+        quote: `“ Many receive advice, only the wise profit from it. ”`,
+        author: "-Harper Lee"
+    },
     
 ]
 
