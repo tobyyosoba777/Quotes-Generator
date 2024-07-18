@@ -414,6 +414,10 @@ const quotes = [
         quote: `“ Many receive advice, only the wise profit from it. ”`,
         author: "-Harper Lee"
     },
+    {
+        quote: `“ Holding onto your anger is like drinking poison and expecting the other person to die. ”`,
+        author: "Buddha"
+    },
     
 ]
 
