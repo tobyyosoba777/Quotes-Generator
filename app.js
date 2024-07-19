@@ -394,10 +394,10 @@ const quotes = [
         quote: `“ You change the world by being yourself. ”`,
         author: "Yoko Ono"
     },
-    {
-        quote: `“ Don't be afraid of other people's strength, Identify your weakness instead. ”`,
-        author: "Keemah"
-    },
+    // {
+    //     quote: `“ Don't be afraid of other people's strength, Identify your weakness instead. ”`,
+    //     author: "Keemah"
+    // },
     {
         quote: `“ Life is really simple, but men insist on making it complicated. ”`,
         author: "Confucius"
