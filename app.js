@@ -418,6 +418,10 @@ const quotes = [
         quote: `“ Holding onto your anger is like drinking poison and expecting the other person to die. ”`,
         author: "Buddha"
     },
+    {
+        quote: `“Mental freedom is the liberation from the illusion of external control. It is the realization that you are already whole and complete, and that all you need is already within you.”`,
+        author: "Vironika Tugaleva"
+    },
     
 ]
 
