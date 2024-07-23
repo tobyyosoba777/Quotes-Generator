@@ -422,6 +422,10 @@ const quotes = [
         quote: `“ There is power in having flexibility of expectations ”`,
         author: "Queen Arit"
     },
+    {
+        quote: `“ The darker the night, the brighter the stars ”`,
+        author: "Fyodor Dostoyevsky"
+    },
     
 ]
 
