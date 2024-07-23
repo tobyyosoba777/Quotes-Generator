@@ -394,10 +394,6 @@ const quotes = [
         quote: `“ You change the world by being yourself. ”`,
         author: "Yoko Ono"
     },
-    // {
-    //     quote: `“ Don't be afraid of other people's strength, Identify your weakness instead. ”`,
-    //     author: "Keemah"
-    // },
     {
         quote: `“ Life is really simple, but men insist on making it complicated. ”`,
         author: "Confucius"
@@ -421,6 +417,10 @@ const quotes = [
     {
         quote: `“Mental freedom is the liberation from the illusion of external control. It is the realization that you are already whole and complete, and that all you need is already within you.”`,
         author: "Vironika Tugaleva"
+    },
+    {
+        quote: `“ There is power in having flexibility of expectations ”`,
+        author: "Queen Arit"
     },
     
 ]
