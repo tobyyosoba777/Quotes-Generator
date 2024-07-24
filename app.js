@@ -426,6 +426,10 @@ const quotes = [
         quote: `“ The darker the night, the brighter the stars ”`,
         author: "Fyodor Dostoyevsky"
     },
+    {
+        quote: `“ Holding onto your anger is like drinking poison and expecting the other person to die. ”`,
+        author: "Buddha"
+    },
     
 ]
 
