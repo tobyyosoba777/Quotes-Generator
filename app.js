@@ -430,6 +430,10 @@ const quotes = [
         quote: `“ Holding onto your anger is like drinking poison and expecting the other person to die. ”`,
         author: "Buddha"
     },
+    {
+        quote: `“ Losing is part of winning, without losses there cant be lessons that will in turn set you up for an eventual Win ”`,
+        author: "Tobi"
+    },
     
 ]
 
