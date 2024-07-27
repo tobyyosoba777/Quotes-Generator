@@ -434,6 +434,10 @@ const quotes = [
         quote: `“ Losing is part of winning, without losses there cant be lessons that will in turn set you up for an eventual Win ”`,
         author: "Tobi"
     },
+    {
+        quote: `“ There is nothing permanent except change. ”`,
+        author: "Heraclitus"
+    },
     
 ]
 
