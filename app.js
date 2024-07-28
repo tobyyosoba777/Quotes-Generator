@@ -438,6 +438,10 @@ const quotes = [
         quote: `“ There is nothing permanent except change. ”`,
         author: "Heraclitus"
     },
+    {
+        quote: `“ The measure of intelligence is the ability to change ”`,
+        author: "Albert Einstein"
+    },
     
 ]
 
