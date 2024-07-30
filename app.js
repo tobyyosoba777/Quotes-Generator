@@ -450,6 +450,10 @@ const quotes = [
         quote: `“ Many receive advice, only the wise profit from it. ”`,
         author: "Harper Lee"
     },
+    {
+        quote: `“ Many of life’s failures are people who did not realize how close they were to success when they gave up. ”`,
+        author: "Thomas A. Edison"
+    },
     
 ]
 
