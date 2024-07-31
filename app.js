@@ -454,6 +454,10 @@ const quotes = [
         quote: `“ Many of life’s failures are people who did not realize how close they were to success when they gave up. ”`,
         author: "Thomas A. Edison"
     },
+    {
+        quote: `“ You never really learn much from hearing yourself speak. ”`,
+        author: "George Clooney"
+    },
     
 ]
 
