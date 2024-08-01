@@ -458,6 +458,10 @@ const quotes = [
         quote: `“ You never really learn much from hearing yourself speak. ”`,
         author: "George Clooney"
     },
+    {
+        quote: `“ We must let go of the life we have planned, so as to accept the one that is waiting for us. ”`,
+        author: "Joseph Campbell"
+    },
     
 ]
 
