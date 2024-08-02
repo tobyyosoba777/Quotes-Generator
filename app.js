@@ -462,6 +462,10 @@ const quotes = [
         quote: `“ We must let go of the life we have planned, so as to accept the one that is waiting for us. ”`,
         author: "Joseph Campbell"
     },
+    {
+        quote: `“ The only person you are destined to become is the person you decide to be. ”`,
+        author: "Ralph Waldo Emerson"
+    },
     
 ]
 
