@@ -466,6 +466,10 @@ const quotes = [
         quote: `“ The only person you are destined to become is the person you decide to be. ”`,
         author: "Ralph Waldo Emerson"
     },
+    {
+        quote: `“ Forever is composed of nows. ”`,
+        author: "Emily Dickinson"
+    },
     
 ]
 
