@@ -470,6 +470,10 @@ const quotes = [
         quote: `“ Forever is composed of nows. ”`,
         author: "Emily Dickinson"
     },
+    {
+        quote: `“ The people who are crazy enough to think they can change the world are the ones who do. ”`,
+        author: "Steve Jobs"
+    },
     
 ]
 
