@@ -474,6 +474,10 @@ const quotes = [
         quote: `“ The people who are crazy enough to think they can change the world are the ones who do. ”`,
         author: "Steve Jobs"
     },
+    {
+        quote: `“ So many things are possible just as long as you don’t know they’re impossible. ”`,
+        author: "Norton Juster"
+    },
     
 ]
 
