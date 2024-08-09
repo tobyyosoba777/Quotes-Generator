@@ -478,6 +478,10 @@ const quotes = [
         quote: `“ So many things are possible just as long as you don’t know they’re impossible. ”`,
         author: "Norton Juster"
     },
+    {
+        quote: `“ With the new day comes new strength and new thoughts. ”`,
+        author: "Eleanor Roosevelt"
+    },
     
 ]
 
