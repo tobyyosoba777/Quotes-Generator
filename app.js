@@ -482,6 +482,10 @@ const quotes = [
         quote: `“ With the new day comes new strength and new thoughts. ”`,
         author: "Eleanor Roosevelt"
     },
+    {
+        quote: `“ I have learned over the years that when one’s mind is made up, this diminishes fear; knowing what must be done does away with fear    . ”`,
+        author: "Rosa Parks"
+    },
     
 ]
 
