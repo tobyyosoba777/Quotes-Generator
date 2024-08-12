@@ -483,8 +483,12 @@ const quotes = [
         author: "Eleanor Roosevelt"
     },
     {
-        quote: `“ I have learned over the years that when one’s mind is made up, this diminishes fear; knowing what must be done does away with fear    . ”`,
+        quote: `“ I have learned over the years that when one’s mind is made up, this diminishes fear; knowing what must be done does away with fear. ”`,
         author: "Rosa Parks"
+    },
+    {
+        quote: `“ Things are just things. Don't get too attached to them. ”`,
+        author: "~Unknown"
     },
     
 ]
