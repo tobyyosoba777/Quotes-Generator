@@ -490,6 +490,10 @@ const quotes = [
         quote: `“ Things are just things. Don't get too attached to them. ”`,
         author: "~Unknown"
     },
+    {
+        quote: `“ Real change, enduring change, happens one step at a time.. ”`,
+        author: "~Ruth Bader Ginsburg"
+    },
     
 ]
 
