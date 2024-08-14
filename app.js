@@ -491,8 +491,12 @@ const quotes = [
         author: "~Unknown"
     },
     {
-        quote: `“ Real change, enduring change, happens one step at a time.. ”`,
-        author: "~Ruth Bader Ginsburg"
+        quote: `“ Real change, enduring change, happens one step at a time. ”`,
+        author: "Ruth Bader Ginsburg"
+    },
+    {
+        quote: `“ If you don't like the road you're walking, start paving another one. ”`,
+        author: "Dolly Parton"
     },
     
 ]
