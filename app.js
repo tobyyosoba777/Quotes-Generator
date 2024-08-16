@@ -502,6 +502,10 @@ const quotes = [
         quote: `“ I can accept failure, everyone fails at something. But I can’t accept not trying. ”`,
         author: "Michael Jordan"
     },
+    {
+        quote: `“ Life is a succession of lessons which must be lived to be understood. ”`,
+        author: "Helen Keller"
+    },
     
 ]
 
