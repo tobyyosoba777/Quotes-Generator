@@ -498,6 +498,10 @@ const quotes = [
         quote: `“ If you don't like the road you're walking, start paving another one. ”`,
         author: "Dolly Parton"
     },
+    {
+        quote: `“ I can accept failure, everyone fails at something. But I can’t accept not trying. ”`,
+        author: "Michael Jordan"
+    },
     
 ]
 
