@@ -506,6 +506,10 @@ const quotes = [
         quote: `“ Life is a succession of lessons which must be lived to be understood. ”`,
         author: "Helen Keller"
     },
+    {
+        quote: `“ Stay close to anything that makes you glad you are alive. ”`,
+        author: "Hafez"
+    },
     
 ]
 
