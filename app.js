@@ -514,6 +514,10 @@ const quotes = [
         quote: `“ Be the best of whatever you are. ”`,
         author: "Martin Luther King, Jr."
     },
+    {
+        quote: `“ All dreams are within reach. All you have to do is keep moving towards them. ”`,
+        author: " Viola Davis."
+    },
     
 ]
 
