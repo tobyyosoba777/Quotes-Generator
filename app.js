@@ -510,6 +510,10 @@ const quotes = [
         quote: `“ Stay close to anything that makes you glad you are alive. ”`,
         author: "Hafez"
     },
+    {
+        quote: `“ Be the best of whatever you are. ”`,
+        author: "Martin Luther King, Jr."
+    },
     
 ]
 
