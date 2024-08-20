@@ -518,6 +518,10 @@ const quotes = [
         quote: `“ All dreams are within reach. All you have to do is keep moving towards them. ”`,
         author: " Viola Davis."
     },
+    {
+        quote: `“ I was taught that the way of progress was neither swift nor easy. ”`,
+        author: " Marie Curie."
+    },
     
 ]
 
