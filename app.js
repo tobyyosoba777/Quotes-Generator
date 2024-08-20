@@ -522,6 +522,10 @@ const quotes = [
         quote: `“ I was taught that the way of progress was neither swift nor easy. ”`,
         author: " Marie Curie."
     },
+    {
+        quote: `“ I have not failed. I’ve just found 10,000 ways that won’t work. ”`,
+        author: " Thomas Edison."
+    },
     
 ]
 
