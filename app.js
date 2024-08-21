@@ -526,6 +526,10 @@ const quotes = [
         quote: `“ I have not failed. I’ve just found 10,000 ways that won’t work. ”`,
         author: " Thomas Edison."
     },
+    {
+        quote: `“ "We don’t see things the way they are. We see them the way we are. ”`,
+        author: " Talmud."
+    },
     
 ]
 
