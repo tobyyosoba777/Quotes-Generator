@@ -527,8 +527,12 @@ const quotes = [
         author: " Thomas Edison."
     },
     {
-        quote: `“ "We don’t see things the way they are. We see them the way we are. ”`,
+        quote: `“ We don’t see things the way they are. We see them the way we are. ”`,
         author: " Talmud."
+    },
+    {
+        quote: `“ Change before you have to. ”`,
+        author: " Jack Welch."
     },
     
 ]
