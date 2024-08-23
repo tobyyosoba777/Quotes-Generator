@@ -534,6 +534,10 @@ const quotes = [
         quote: `“ Change before you have to. ”`,
         author: " Jack Welch."
     },
+    {
+        quote: `“ People respond well to those that are sure of what they want. ”`,
+        author: " Anna Wintour."
+    },
     
 ]
 
