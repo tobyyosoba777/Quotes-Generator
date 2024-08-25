@@ -538,6 +538,10 @@ const quotes = [
         quote: `“ People respond well to those that are sure of what they want. ”`,
         author: " Anna Wintour."
     },
+    {
+        quote: `“ One must be something to do something. ”`,
+        author: " Johann Wolfgang von Goethe."
+    },
     
 ]
 
