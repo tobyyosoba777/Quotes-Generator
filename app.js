@@ -546,6 +546,10 @@ const quotes = [
         quote: `“ Curiosity about life in all of its aspects, I think, is still the secret of great creative people. ”`,
         author: " Leo Burnett. "
     },
+    {
+        quote: `“ How wild it was, to let it be. ”`,
+        author: "  Cheryl Strayed. "
+    },
     
 ]
 
