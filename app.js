@@ -542,6 +542,10 @@ const quotes = [
         quote: `“ One must be something to do something. ”`,
         author: " Johann Wolfgang von Goethe."
     },
+    {
+        quote: `“ Curiosity about life in all of its aspects, I think, is still the secret of great creative people. ”`,
+        author: " Leo Burnett. "
+    },
     
 ]
 
