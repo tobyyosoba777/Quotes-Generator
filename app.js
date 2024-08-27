@@ -550,6 +550,10 @@ const quotes = [
         quote: `“ How wild it was, to let it be. ”`,
         author: "  Cheryl Strayed. "
     },
+    {
+        quote: `“ Life shrinks or expands according to one’s courage. ”`,
+        author: " Anaïs Nin "
+    },
     
 ]
 
