@@ -554,6 +554,10 @@ const quotes = [
         quote: `“ Life shrinks or expands according to one’s courage. ”`,
         author: " Anaïs Nin "
     },
+    {
+        quote: `“ Do not ignore your intuition. There is an infinite intelligence within you; let it be your guiding light. ”`,
+        author: " Cleo Wade "
+    },
     
 ]
 
