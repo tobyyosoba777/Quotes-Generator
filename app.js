@@ -558,6 +558,10 @@ const quotes = [
         quote: `“ Do not ignore your intuition. There is an infinite intelligence within you; let it be your guiding light. ”`,
         author: " Cleo Wade "
     },
+    {
+        quote: `“ Stay close to anything that makes you glad you are alive. ”`,
+        author: " Hafez "
+    },
     
 ]
 
