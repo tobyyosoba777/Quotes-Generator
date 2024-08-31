@@ -562,6 +562,10 @@ const quotes = [
         quote: `“ Stay close to anything that makes you glad you are alive. ”`,
         author: " Hafez "
     },
+    {
+        quote: `“ Things are just things, don't get too attached to them. ”`,
+        author: " ~Unknown "
+    },
     
 ]
 
