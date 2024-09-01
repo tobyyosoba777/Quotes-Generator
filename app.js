@@ -566,6 +566,10 @@ const quotes = [
         quote: `“ Things are just things, don't get too attached to them. ”`,
         author: " ~Unknown "
     },
+    {
+        quote: `“ Life is very interesting … In the end, some of your greatest pains become your greatest strengths. ”`,
+        author: " Drew Barrymore "
+    },
     
 ]
 
