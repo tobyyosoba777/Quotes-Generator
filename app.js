@@ -567,8 +567,12 @@ const quotes = [
         author: " ~Unknown "
     },
     {
-        quote: `“ Life is very interesting … In the end, some of your greatest pains become your greatest strengths. ”`,
+        quote: `“ Life is very interesting… In the end, some of your greatest pains become your greatest strengths. ”`,
         author: " Drew Barrymore "
+    },
+    {
+        quote: `“ Let go of the battle. Breathe quietly and let it be. Let your body relax and your heart soften. Open to whatever you experience without fighting. ”`,
+        author: " Jack Kornfield "
     },
     
 ]
