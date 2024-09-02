@@ -574,6 +574,10 @@ const quotes = [
         quote: `“ Let go of the battle. Breathe quietly and let it be. Let your body relax and your heart soften. Open to whatever you experience without fighting. ”`,
         author: " Jack Kornfield "
     },
+    {
+        quote: `“ Attachment is the great fabricator of illusions; reality can be obtained only by someone who is detached. ”`,
+        author: " Simone Weil "
+    },
     
 ]
 
