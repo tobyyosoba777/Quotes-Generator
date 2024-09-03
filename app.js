@@ -578,6 +578,12 @@ const quotes = [
         quote: `“ Attachment is the great fabricator of illusions; reality can be obtained only by someone who is detached. ”`,
         author: " Simone Weil "
     },
+    {
+        quote: `“ You've done it before and you can do it now. See the positive possibilities. 
+        Redirect the substantial energy of your frustration and turn it into positive, effective, 
+        unstoppable determination. ”`,
+        author: " Ralph Marston "
+    },
     
 ]
 
