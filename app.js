@@ -592,6 +592,10 @@ const quotes = [
         quote: `“ Most people are about as happy as they make up their minds to be. ”`,
         author: " Abraham Lincoln "
     },
+    {
+        quote: `“ Happiness is the sum of all your life’s beautiful moments. ”`,
+        author: " ~Unknown "
+    },
     
 ]
 
