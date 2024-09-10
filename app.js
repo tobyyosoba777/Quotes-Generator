@@ -596,6 +596,10 @@ const quotes = [
         quote: `“ Happiness is the sum of all your life’s beautiful moments. ”`,
         author: " ~Unknown "
     },
+    {
+        quote: `“ Emotional detachment is a simple and effective way to maintain your poise in a stressful environment and around taxing people. ”`,
+        author: " Remez Sasson "
+    },
     
 ]
 
