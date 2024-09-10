@@ -596,6 +596,14 @@ const quotes = [
         quote: `“ Happiness is the sum of all your life’s beautiful moments. ”`,
         author: " ~Unknown "
     },
+    {
+        quote: `“ Happiness is the robust sense of fulfillment, that is, fulfillment one feels when bravely confronting and surmounting hardship. ”`,
+        author: " ~Unknown "
+    },
+    {
+        quote: `“ Peace cannot be kept by force; it can only be achieved by understanding." "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. ”`,
+        author: " ~Unknown "
+    },
     
 ]
 
