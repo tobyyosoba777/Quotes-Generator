@@ -600,6 +600,10 @@ const quotes = [
         quote: `“ Emotional detachment is a simple and effective way to maintain your poise in a stressful environment and around taxing people. ”`,
         author: " Remez Sasson "
     },
+    {
+        quote: `“ Detachment is not indifference. It means not getting entangled with the anxiety and fears of other people. ”`,
+        author: " Remez Sasson "
+    },
     
 ]
 
