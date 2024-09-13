@@ -604,6 +604,10 @@ const quotes = [
         quote: `“ Detachment is not indifference. It means not getting entangled with the anxiety and fears of other people. ”`,
         author: " Remez Sasson "
     },
+    {
+        quote: `“ If you wish to experience real freedom, you need to stop getting involved with every thought and emotion that pops up. ”`,
+        author: " Remez Sasson "
+    },
     
 ]
 
