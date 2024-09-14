@@ -612,6 +612,10 @@ const quotes = [
         quote: `“ When you choose to let go of unhappy past events and stop dwelling on fears and worries, you choose happiness. ”`,
         author: " Remez Sasson "
     },
+    {
+        quote: `“ Remain in the world, act in the world, do whatsoever is needful, and yet remain transcendental, aloof, detached, a lotus flower in the pond. ”`,
+        author: " Remez Sasson "
+    },
     
 ]
 
