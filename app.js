@@ -608,6 +608,10 @@ const quotes = [
         quote: `“ If you wish to experience real freedom, you need to stop getting involved with every thought and emotion that pops up. ”`,
         author: " Remez Sasson "
     },
+    {
+        quote: `“ When you choose to let go of unhappy past events and stop dwelling on fears and worries, you choose happiness. ”`,
+        author: " Remez Sasson "
+    },
     
 ]
 
