@@ -613,8 +613,8 @@ const quotes = [
         author: " Remez Sasson "
     },
     {
-        quote: `“ Remain in the world, act in the world, do whatsoever is needful, and yet remain transcendental, aloof, detached, a lotus flower in the pond. ”`,
-        author: " Remez Sasson "
+        quote: `“ Detachment is not giving up the things in this world, but accepting the fact and to be continuously aware that nothing is permanent. ”`,
+        author: " Aditya Ajmera "
     },
     
 ]
