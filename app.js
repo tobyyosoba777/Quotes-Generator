@@ -616,6 +616,10 @@ const quotes = [
         quote: `“ Detachment is not giving up the things in this world, but accepting the fact and to be continuously aware that nothing is permanent. ”`,
         author: " Aditya Ajmera "
     },
+    {
+        quote: `“ Detachment is the beginning of mastery. ”`,
+        author: " Sri Aurobindo "
+    },
     
 ]
 
