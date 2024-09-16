@@ -620,6 +620,10 @@ const quotes = [
         quote: `“ Detachment is the beginning of mastery. ”`,
         author: " Sri Aurobindo "
     },
+    {
+        quote: `“ The most powerful relationship you will ever have is the relationship with yourself. ”`,
+        author: " Steve Maraboli "
+    },
     
 ]
 
