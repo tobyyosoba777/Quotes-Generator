@@ -624,6 +624,10 @@ const quotes = [
         quote: `“ The most powerful relationship you will ever have is the relationship with yourself. ”`,
         author: " Steve Maraboli "
     },
+    {
+        quote: `“ Never make someone a priority when all you are to them is an option. ”`,
+        author: " Maya Angelou "
+    },
     
 ]
 
