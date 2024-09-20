@@ -628,6 +628,10 @@ const quotes = [
         quote: `“ Never make someone a priority when all you are to them is an option. ”`,
         author: " Maya Angelou "
     },
+    {
+        quote: `“ To fall in love with yourself is the first secret to happiness. ”`,
+        author: " Robert Morley "
+    },
     
 ]
 
