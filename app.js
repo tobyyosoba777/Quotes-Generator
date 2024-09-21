@@ -632,6 +632,10 @@ const quotes = [
         quote: `“ To fall in love with yourself is the first secret to happiness. ”`,
         author: " Robert Morley "
     },
+    {
+        quote: `“ Healing doesn’t mean the damage never existed. It means the damage no longer controls your life. ”`,
+        author: " Akshay Dubey "
+    },
     
 ]
 
