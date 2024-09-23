@@ -636,6 +636,10 @@ const quotes = [
         quote: `“ Healing doesn’t mean the damage never existed. It means the damage no longer controls your life. ”`,
         author: " Akshay Dubey "
     },
+    {
+        quote: `“ The only way out of the labyrinth of suffering is to forgive. ”`,
+        author: " John Green "
+    },
     
 ]
 
