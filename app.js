@@ -640,6 +640,10 @@ const quotes = [
         quote: `“ The only way out of the labyrinth of suffering is to forgive. ”`,
         author: " John Green "
     },
+    {
+        quote: `“ The only way out of the labyrinth of suffering is to forgive. ”`,
+        author: " John Green "
+    },
     
 ]
 
