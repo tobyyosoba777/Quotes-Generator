@@ -653,6 +653,14 @@ const quotes = [
         quote: `“ Self-love, my liege, is not so vile a sin, as self-neglecting. ”`,
         author: " William Shakespeare "
     },
+    {
+        quote: `“ Self-love, my liege, is not so vile a sin, as self-neglecting. ”`,
+        author: " William Shakespeare "
+    },
+    {
+        quote: `“ Self-love is the source of all our other loves. ”`,
+        author: " Yung Pueblo "
+    },
     
 ]
 
