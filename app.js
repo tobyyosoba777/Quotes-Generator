@@ -643,10 +643,15 @@ const quotes = [
     {
         quote: `“ Trust yourself. You know more than you think you do. ”`,
         author: " Benjamin Spock "
-    },{
+    },
+    {
         quote: `“ You find peace not by rearranging the circumstances of your life, 
         but by realizing who you are at the deepest level. ”`,
         author: " Eckhart Tolle "
+    },
+    {
+        quote: `“ Self-love, my liege, is not so vile a sin, as self-neglecting. ”`,
+        author: " William Shakespeare "
     },
     
 ]
