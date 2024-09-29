@@ -661,6 +661,10 @@ const quotes = [
         quote: `“ Self-love is the source of all our other loves. ”`,
         author: " Yung Pueblo "
     },
+    {
+        quote: `“ Healing comes when we choose to walk away from darkness and move towards a brighter light. ”`,
+        author: " Dieter F. Uchtdorf "
+    },
     
 ]
 
