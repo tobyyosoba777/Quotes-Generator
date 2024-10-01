@@ -665,6 +665,10 @@ const quotes = [
         quote: `“ Healing comes when we choose to walk away from darkness and move towards a brighter light. ”`,
         author: " Dieter F. Uchtdorf "
     },
+    {
+        quote: `“ To love oneself is the beginning of a lifelong romance. ”`,
+        author: " Oscar wilde "
+    },
     
 ]
 
