@@ -669,6 +669,10 @@ const quotes = [
         quote: `“ To love oneself is the beginning of a lifelong romance. ”`,
         author: " Oscar wilde "
     },
+    {
+        quote: `“ Love and the self are one, and the discovery of either is the realization of both. ”`,
+        author: " Leo Buscaglia "
+    },
     
 ]
 
