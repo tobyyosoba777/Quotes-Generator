@@ -673,6 +673,10 @@ const quotes = [
         quote: `“ Love and the self are one, and the discovery of either is the realization of both. ”`,
         author: " Leo Buscaglia "
     },
+    {
+        quote: `“ You will love again the stranger who was your self. ”`,
+        author: " Leo Buscaglia "
+    },
     
 ]
 
