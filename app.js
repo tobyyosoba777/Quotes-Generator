@@ -677,6 +677,10 @@ const quotes = [
         quote: `“ You will love again the stranger who was your self. ”`,
         author: " Leo Buscaglia "
     },
+    {
+        quote: `“ Detachment is not indifference. It means not getting entangled with the anxiety and fears of other people. ”`,
+        author: " Remez Sasson "
+    },
     
 ]
 
