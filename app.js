@@ -681,6 +681,10 @@ const quotes = [
         quote: `“ Detachment is not indifference. It means not getting entangled with the anxiety and fears of other people. ”`,
         author: " Remez Sasson "
     },
+    {
+        quote: `“ Don’t forget to tell yourself positive things daily! You must love yourself internally to glow externally. ”`,
+        author: " Hannah Bronfman "
+    },
     
 ]
 
