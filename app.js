@@ -685,6 +685,10 @@ const quotes = [
         quote: `“ Don’t forget to tell yourself positive things daily! You must love yourself internally to glow externally. ”`,
         author: " Hannah Bronfman "
     },
+    {
+        quote: `“ We can only love others as much as we love ourselves. ”`,
+        author: " Brené Brown "
+    },
     
 ]
 
