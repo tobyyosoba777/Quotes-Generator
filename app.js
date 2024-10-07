@@ -689,6 +689,10 @@ const quotes = [
         quote: `“ We can only love others as much as we love ourselves. ”`,
         author: " Brené Brown "
     },
+    {
+        quote: `“ You’re always with yourself, so you might as well enjoy the company. ”`,
+        author: " Diane von Furstenberg "
+    },
     
 ]
 
