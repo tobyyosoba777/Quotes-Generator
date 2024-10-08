@@ -693,6 +693,10 @@ const quotes = [
         quote: `“ You’re always with yourself, so you might as well enjoy the company. ”`,
         author: " Diane von Furstenberg "
     },
+    {
+        quote: `“ I don't want to survive, I want to live. ”`,
+        author: " ~Unknown "
+    },
     
 ]
 
