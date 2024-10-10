@@ -697,6 +697,10 @@ const quotes = [
         quote: `“ I don't want to survive, I want to live. ”`,
         author: " ~Unknown "
     },
+    {
+        quote: `“ You have power over your mind - not outside events. Realize this, and you will find strength. ”`,
+        author: "  Marcus Aurelius, Meditations  "
+    },
     
 ]
 
