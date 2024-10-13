@@ -705,6 +705,10 @@ const quotes = [
         quote: `“ The only impossible journey is the one you never begin. ”`,
         author: " Tony Robbins "
     },
+    {
+        quote: `“ May you live all the days of your life. ”`,
+        author: " Jonathan Swift "
+    },
     
 ]
 
