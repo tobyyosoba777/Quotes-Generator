@@ -709,6 +709,10 @@ const quotes = [
         quote: `“ May you live all the days of your life. ”`,
         author: " Jonathan Swift "
     },
+    {
+        quote: `“ The trouble is, you think you have time. ”`,
+        author: " Jack Kornfield "
+    },
     
 ]
 
