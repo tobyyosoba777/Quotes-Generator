@@ -713,6 +713,10 @@ const quotes = [
         quote: `“ The trouble is, you think you have time. ”`,
         author: " Jack Kornfield "
     },
+    {
+        quote: `“ Always remember, your focus determines your reality. ”`,
+        author: " – George Lucas. "
+    },
     
 ]
 
