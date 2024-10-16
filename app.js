@@ -717,6 +717,10 @@ const quotes = [
         quote: `“ Always remember, your focus determines your reality. ”`,
         author: " – George Lucas. "
     },
+    {
+        quote: `“ Happiness is free, but priceless. ”`,
+        author: " Unknown. "
+    },
     
 ]
 
