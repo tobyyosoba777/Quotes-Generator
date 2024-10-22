@@ -730,6 +730,12 @@ const quotes = [
         quote: `“ Never bend your head. Always hold it high. Look the world straight in the eye. ”`,
         author: " Helen Keller. "
     },
+    {
+        quote: `“ As long as the mind is enslaved, the body can never be free. 
+        Psychological freedom, a firm sense of self-esteem, is the most powerful 
+        weapon against the long night of physical slavery. ”`,
+        author: " Martin Luther King, Jr. "
+    },
     
 ]
 
