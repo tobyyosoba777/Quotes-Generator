@@ -736,6 +736,10 @@ const quotes = [
         weapon against the long night of physical slavery. ”`,
         author: " Martin Luther King, Jr. "
     },
+    {
+        quote: `“ Let go of the ropes that bind your mind. ”`,
+        author: " Unknown. "
+    },
     
 ]
 
