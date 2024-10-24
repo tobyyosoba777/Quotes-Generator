@@ -744,6 +744,10 @@ const quotes = [
         quote: `“ You have power over your mind—not outside events. Realize this, and you will find strength. ”`,
         author: " Marcus Aurelius. "
     },
+    {
+        quote: `“ The greatest weapon against stress is our ability to choose one thought over another. ”`,
+        author: " William James. "
+    },
     
 ]
 
