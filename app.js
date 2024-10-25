@@ -748,6 +748,10 @@ const quotes = [
         quote: `“ The greatest weapon against stress is our ability to choose one thought over another. ”`,
         author: " William James. "
     },
+    {
+        quote: `“ My dark days made me stronger. Or maybe I already was strong, and they made me prove it. ”`,
+        author: " Emery Lord. "
+    },
     
 ]
 
