@@ -752,6 +752,12 @@ const quotes = [
         quote: `“ My dark days made me stronger. Or maybe I already was strong, and they made me prove it. ”`,
         author: " Emery Lord. "
     },
+    {
+        quote: `“ What does your anxiety do? It does not empty tomorrow of its sorrow, but it 
+        empties today of its strength. It does not make you escape the evil; it makes you 
+        unfit to cope with it if it comes. ”`,
+        author: " Raymond L. Cramer. "
+    },
     
 ]
 
