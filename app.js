@@ -762,6 +762,10 @@ const quotes = [
         quote: `“ Self-compassion is simply giving the same kindness to ourselves that we would give to others. ”`,
         author: " Christopher Germer. "
     },
+    {
+        quote: `“ Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. ”`,
+        author: " Matthew 6:34. "
+    },
     
 ]
 
