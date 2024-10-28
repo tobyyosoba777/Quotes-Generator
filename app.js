@@ -758,6 +758,10 @@ const quotes = [
         unfit to cope with it if it comes. ”`,
         author: " Raymond L. Cramer. "
     },
+    {
+        quote: `“ Self-compassion is simply giving the same kindness to ourselves that we would give to others. ”`,
+        author: " Christopher Germer. "
+    },
     
 ]
 
