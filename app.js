@@ -766,6 +766,10 @@ const quotes = [
         quote: `“ Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. ”`,
         author: " Matthew 6:34. "
     },
+    {
+        quote: `“ Sometimes you climb out of bed in the morning and you think, I’m not going to make it, but you laugh inside — remembering all the times you’ve felt that way. ”`,
+        author: " Charles Bukowski. "
+    },
     
 ]
 
