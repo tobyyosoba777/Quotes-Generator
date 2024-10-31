@@ -769,6 +769,9 @@ const quotes = [
     {
         quote: `“ Sometimes you climb out of bed in the morning and you think, I’m not going to make it, but you laugh inside — remembering all the times you’ve felt that way. ”`,
         author: " Charles Bukowski. "
+    },{
+        quote: `“In the middle of winter I at last discovered that there was in me an invincible summer.”`,
+        author: " Albert Camus. "
     },
     
 ]
