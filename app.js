@@ -782,6 +782,10 @@ const quotes = [
         quote: `“ Being able to be your true self is one of the strongest components of good mental health.”`,
         author: " Dr. Lauren Fogel Mersy. "
     },
+    {
+        quote: `“ Mental health is not a destination, but a process. It's about how you drive, not where you're going.”`,
+        author: " Noam Shpancer. "
+    },
     
 ]
 
