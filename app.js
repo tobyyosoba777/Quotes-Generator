@@ -786,6 +786,10 @@ const quotes = [
         quote: `“ Mental health is not a destination, but a process. It's about how you drive, not where you're going.”`,
         author: " Noam Shpancer. "
     },
+    {
+        quote: `“ No amount of support or generosity justifies someone treating you badly. This includes parents.”`,
+        author: " Sarah Crosby. "
+    },
     
 ]
 
