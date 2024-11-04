@@ -790,6 +790,10 @@ const quotes = [
         quote: `“ No amount of support or generosity justifies someone treating you badly. This includes parents.”`,
         author: " Sarah Crosby. "
     },
+    {
+        quote: `“ Not until we are lost do we begin to understand ourselves. ”`,
+        author: " Henry David Thoreau. "
+    },
     
 ]
 
