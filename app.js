@@ -794,6 +794,10 @@ const quotes = [
         quote: `“ Not until we are lost do we begin to understand ourselves. ”`,
         author: " Henry David Thoreau. "
     },
+    {
+        quote: `“ Take your time healing, as long as you want. Nobody else knows what you’ve been through. How could they know how long it will take to heal you? ”`,
+        author: " Abertoli. "
+    },
     
 ]
 
