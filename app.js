@@ -798,6 +798,10 @@ const quotes = [
         quote: `“ Take your time healing, as long as you want. Nobody else knows what you’ve been through. How could they know how long it will take to heal you? ”`,
         author: " Abertoli. "
     },
+    {
+        quote: `“ One small crack does not mean that you are broken, it means that you were put to the test and you didn’t fall apart. ”`,
+        author: " Linda Poindexter. "
+    },
     
 ]
 
