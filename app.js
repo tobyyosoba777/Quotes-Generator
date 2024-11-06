@@ -802,6 +802,10 @@ const quotes = [
         quote: `“ One small crack does not mean that you are broken, it means that you were put to the test and you didn’t fall apart. ”`,
         author: " Linda Poindexter. "
     },
+    {
+        quote: `“ There is hope, even when your brain tells you there isn’t ”`,
+        author: " John Green. "
+    },
     
 ]
 
