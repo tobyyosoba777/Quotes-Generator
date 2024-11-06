@@ -806,6 +806,10 @@ const quotes = [
         quote: `“ There is hope, even when your brain tells you there isn’t ”`,
         author: " John Green. "
     },
+    {
+        quote: `“ Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. ”`,
+        author: " Kahlil Gibran. "
+    },
     
 ]
 
