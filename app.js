@@ -818,6 +818,10 @@ const quotes = [
         quote: `“ Self-care is how you take your power back ”`,
         author: "Lalah Delia."
     },
+    {
+        quote: `“ Let your story go. Allow yourself to be present with who you are right now ”`,
+        author: "Russ Kyle."
+    },
     
 ]
 
