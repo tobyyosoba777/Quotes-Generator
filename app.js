@@ -810,6 +810,10 @@ const quotes = [
         quote: `“ Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. ”`,
         author: " Kahlil Gibran. "
     },
+    {
+        quote: `“ Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. ”`,
+        author: " Kahlil Gibran. "
+    },
     
 ]
 
