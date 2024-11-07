@@ -814,6 +814,10 @@ const quotes = [
         quote: `“ Recovery is not one and done. It is a lifelong journey that takes place one day, one step at a time. ”`,
         author: " ~Unknown. "
     },
+    {
+        quote: `“ Self-care is how you take your power back ”`,
+        author: "Lalah Delia."
+    },
     
 ]
 
