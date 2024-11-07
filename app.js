@@ -811,8 +811,8 @@ const quotes = [
         author: " Kahlil Gibran. "
     },
     {
-        quote: `“ Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. ”`,
-        author: " Kahlil Gibran. "
+        quote: `“ Recovery is not one and done. It is a lifelong journey that takes place one day, one step at a time. ”`,
+        author: " ~Unknown. "
     },
     
 ]
