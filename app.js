@@ -826,6 +826,10 @@ const quotes = [
         quote: `“ Your illness is not your identity. Your chemistry is not your character. ”`,
         author: "Rick Warren."
     },
+    {
+        quote: `“ The moment you realize that you are not your thoughts, that is the beginning of freedom. ”`,
+        author: "Nisargadatta Maharaj."
+    },
     
 ]
 
