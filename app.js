@@ -830,6 +830,10 @@ const quotes = [
         quote: `“ The moment you realize that you are not your thoughts, that is the beginning of freedom. ”`,
         author: "Nisargadatta Maharaj."
     },
+    {
+        quote: `“ . ”`,
+        author: "Nisargadatta Maharaj."
+    },
     
 ]
 
