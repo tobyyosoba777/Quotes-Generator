@@ -831,8 +831,8 @@ const quotes = [
         author: "Nisargadatta Maharaj."
     },
     {
-        quote: `“ . ”`,
-        author: "Nisargadatta Maharaj."
+        quote: `“ To find yourself, think for yourself.. ”`,
+        author: "Socrates."
     },
     
 ]
