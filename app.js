@@ -834,6 +834,10 @@ const quotes = [
         quote: `“ To find yourself, think for yourself.. ”`,
         author: "Socrates."
     },
+    {
+        quote: `“ Your illness is not your identity. Your chemistry is not your character. ”`,
+        author: "Rick Warren."
+    },
     
 ]
 
