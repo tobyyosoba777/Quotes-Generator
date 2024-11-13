@@ -838,6 +838,10 @@ const quotes = [
         quote: `“ Your illness is not your identity. Your chemistry is not your character. ”`,
         author: "Rick Warren."
     },
+    {
+        quote: `“ You, yourself, as much as anybody in the entire universe, deserve your love and affection. ”`,
+        author: "Buddha."
+    },
     
 ]
 
